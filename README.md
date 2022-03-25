@@ -14,7 +14,13 @@
 <br>
 
 ## GitHub Repositories for developers
-<br>
+* [Project Ideas](https://github.com/akshaymarch7/project-ideas) - You can create your own projects and upload it on this repo to make your first open source contribution.<br>
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.<br>
+* [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge <br>
+* [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations <br>
+* [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) -  The perfect Front-End Checklist for modern websites and meticulous developers<br>
+
+<br>>br>
 
 ## Websites for Web-Development
 <br>
