@@ -20,7 +20,7 @@
 * [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations <br>
 * [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) -  The perfect Front-End Checklist for modern websites and meticulous developers<br>
 
-<br>>br>
+<br><br>
 
 ## Websites for Web-Development
 <br>
