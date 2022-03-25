@@ -23,7 +23,12 @@
 <br><br>
 
 ## Websites for Web-Development
-<br>
+* [W3Schools](https://www.w3schools.com/default.asp)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
+* [freeCodeCamp](https://www.freecodecamp.org/)
+* [Traversy Media](https://www.traversymedia.com/)
+
+<br><br>
 
 ## Project Resources
 <br>
