@@ -29,7 +29,15 @@
 <br>
 
 ## YouTube channels for Web-Development
-<br>
+[Code with Harry](https://youtube.com/c/CodeWithHarry)
+[Hitesh Choudhary](https://youtube.com/c/HiteshChoudharydotcom)
+[Telusko](https://youtube.com/c/Telusko)
+[freeCodeCamp.org](https://youtube.com/c/Freecodecamp)
+[Traversy Media](https://youtube.com/c/TraversyMedia)
+[6 Pack Programmer](https://youtube.com/c/6PackProgrammer)
+[Web Dev Simplified](https://youtube.com/c/WebDevSimplified)
+[Akshay Saini](https://youtube.com/c/akshaymarch7)
+<br><br>
 
 ## Useful tools for Front-End Development 
 <br>
