@@ -6,8 +6,11 @@
 <br>
 
 
-## Roadmaps
- * **[*Roadmap*](https://github.com/Aashutosh0033/Web-Dev-Resources/blob/main/Roadmaps.md)**
+
+<details>
+    <summary>## Roadmaps</summary>
+    <p> * **[*Roadmap*](https://github.com/Aashutosh0033/Web-Dev-Resources/blob/main/Roadmaps.md)**</p>
+</details>
 <br>
 
 ## CheatSheet 
