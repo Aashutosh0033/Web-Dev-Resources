@@ -30,8 +30,6 @@
 
 <br><br>
 
-## Project Resources
-<br>
 
 ## YouTube channels for Web-Development
 * **[Code with Harry](https://youtube.com/c/CodeWithHarry)**
