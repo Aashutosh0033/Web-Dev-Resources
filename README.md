@@ -20,7 +20,8 @@
 <br>
 
 
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) &nbsp;&nbsp;## GitHub Repositories for developers
+## GitHub Repositories for developers
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 * **[Project Ideas](https://github.com/akshaymarch7/project-ideas)** - You can create your own projects and upload it on this repo to make your first open source contribution.<br>
 * **[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)** - A collection of awesome browser-side JavaScript libraries, resources and shiny things.<br>
 * **[JavaScript30](https://github.com/wesbos/JavaScript30)** - 30 Day Vanilla JS Challenge <br>
@@ -39,8 +40,8 @@
 <br><br>
 
 
-![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ## YouTube channels for Web-Development
+![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 * **[Code with Harry](https://youtube.com/c/CodeWithHarry)**
 * **[Hitesh Choudhary](https://youtube.com/c/HiteshChoudharydotcom)**
 * **[Telusko](https://youtube.com/c/Telusko)**
