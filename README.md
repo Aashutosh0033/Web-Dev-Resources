@@ -20,8 +20,7 @@
 <br>
 
 
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-## GitHub Repositories for developers
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) &nbsp;&nbsp;## GitHub Repositories for developers
 * **[Project Ideas](https://github.com/akshaymarch7/project-ideas)** - You can create your own projects and upload it on this repo to make your first open source contribution.<br>
 * **[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)** - A collection of awesome browser-side JavaScript libraries, resources and shiny things.<br>
 * **[JavaScript30](https://github.com/wesbos/JavaScript30)** - 30 Day Vanilla JS Challenge <br>
