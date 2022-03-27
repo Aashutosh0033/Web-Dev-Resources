@@ -11,6 +11,11 @@
 <br>
 
 ## CheatSheet 
+* **[Awesome-CheatSheet](https://github.com/LeCoupa/awesome-cheatsheets)** - A repository for cheatsheets <br>
+* **[HTML CheatSheet](https://makeawebsitehub.com/the-html-5-mega-cheat-sheet/)** 
+* **[CSS CheatSheet](https://makeawebsitehub.com/css3-mega-cheat-sheet/)** 
+* **[JAVASCRIPT](https://websitesetup.org/javascript-cheat-sheet/)**
+
 
 <br>
 
