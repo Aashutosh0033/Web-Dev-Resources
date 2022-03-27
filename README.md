@@ -11,6 +11,7 @@
 <br>
 
 ## CheatSheet 
+
 <br>
 
 ## GitHub Repositories for developers
@@ -19,7 +20,8 @@
 * **[JavaScript30](https://github.com/wesbos/JavaScript30)** - 30 Day Vanilla JS Challenge <br>
 * **[JavaScript Questions](https://github.com/lydiahallie/javascript-questions)** - A long list of (advanced) JavaScript questions, and their explanations <br>
 * **[Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)** -  The perfect Front-End Checklist for modern websites and meticulous developers<br>
-
+* **[Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)** - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more <br>
+* **[Developer Handbook](https://github.com/apptension/developer-handbook)** - An opinionated guide on how to become a professional Web/Mobile App Developer.
 <br><br>
 
 ## Websites for Web-Development
