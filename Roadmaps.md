@@ -31,3 +31,9 @@
 
 [Angular_Roadmap.pdf](https://github.com/Aashutosh0033/Web-Dev-Resources/files/8347701/Angular_Roadmap.pdf)
 <br><br><br><br>
+
+## Node JS Roadmap
+
+![Node js-developer-roadmap](https://user-images.githubusercontent.com/83531337/162105157-cd65f7e4-f379-4efd-8bbb-14165b7efe40.png)
+<br><br><br><br>
+
