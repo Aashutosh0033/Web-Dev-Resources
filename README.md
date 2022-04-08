@@ -64,6 +64,7 @@
 
 <br>
 ### Fonts
+
 * **[Google Fonts](https://fonts.google.com/)
 * **[FontSpace](https://www.fontspace.com/)
 * **[1001fonts](https://www.1001fonts.com/)
@@ -75,6 +76,7 @@
 
 <br>
 ### Icons
+
 * **[FeatherIcons](https://feathericons.com/)
 * **[Icons8](https://icons8.com/)
 * **[Iconsax](https://iconsax.io/)
