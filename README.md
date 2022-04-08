@@ -113,7 +113,7 @@
 **Free Hosting Platforms**<br>
 
 * **[FireBase](https://firebase.google.com/)**
-* **[Netify](https://www.netlify.com/)**
+* **[Netlify](https://www.netlify.com/)**
 * **[Heroku](https://www.heroku.com/)**
 * **[Surge](https://surge.sh/)**
 * **[Gitub](https://github.com/)**
