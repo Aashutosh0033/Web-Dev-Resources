@@ -32,6 +32,12 @@
 <br><br>
 
 ## Websites for Web-Development Documentation
+
+<br>
+![freecodecamp](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![geeksforgeek](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+<br>
+
 * **[W3Schools](https://www.w3schools.com/default.asp)**
 * **[GeeksforGeeks](https://www.geeksforgeeks.org/)**
 * **[freeCodeCamp](https://www.freecodecamp.org/)**
@@ -93,6 +99,14 @@
 
 ## Hosting Platforms
 
+<br>
+![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br>
 **Free Hosting Platforms**<br>
 * **[FireBase](https://firebase.google.com/)**
 * **[Netify](https://www.netlify.com/)**
