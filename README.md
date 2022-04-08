@@ -63,6 +63,7 @@
 * **[Muzli Design](https://muz.li/)**
 
 <br>
+
 ### Fonts
 
 * **[Google Fonts](https://fonts.google.com/)**
@@ -75,6 +76,7 @@
 * **[CDN Fonts](https://www.cdnfonts.com/)**
 
 <br>
+
 ### Icons
 
 * **[FeatherIcons](https://feathericons.com/)**
