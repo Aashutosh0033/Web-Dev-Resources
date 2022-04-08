@@ -8,7 +8,7 @@
 
 ## Roadmaps
 * **[Roadmap](https://github.com/Aashutosh0033/Web-Dev-Resources/blob/main/Roadmaps.md)**
-<br>
+<br><br>
 
 ## CheatSheet 
 * **[Awesome-CheatSheet](https://github.com/LeCoupa/awesome-cheatsheets)** - A repository for cheatsheets <br>
@@ -17,7 +17,7 @@
 * **[JAVASCRIPT](https://websitesetup.org/javascript-cheat-sheet/)**
 
 
-<br>
+<br><br>
 
 
 ## GitHub Repositories for developers
@@ -31,7 +31,7 @@
 * **[Developer Handbook](https://github.com/apptension/developer-handbook)** - An opinionated guide on how to become a professional Web/Mobile App Developer.
 <br><br>
 
-## Websites for Web-Development
+## Websites for Web-Development Documentation
 * **[W3Schools](https://www.w3schools.com/default.asp)**
 * **[GeeksforGeeks](https://www.geeksforgeeks.org/)**
 * **[freeCodeCamp](https://www.freecodecamp.org/)**
@@ -53,7 +53,58 @@
 <br><br>
 
 ## Useful tools for Front-End Development 
+
+### Design Inspiration
+* **[CSSDesignAwards](https://www.cssdesignawards.com/)**
+* **[Awwwards](https://www.awwwards.com/)**
+* **[Behance](https://www.behance.net/)**
+* **[LoopupDesign](https://lookup.design/)**
+* **[LandingFolio](https://landingfolio.com/)**
+* **[Muzli Design](https://muz.li/)**
+
 <br>
+### Fonts
+* **[Google Fonts](https://fonts.google.com/)
+* **[FontSpace](https://www.fontspace.com/)
+* **[1001fonts](https://www.1001fonts.com/)
+* **[Nerdsfonts](https://www.nerdfonts.com/)
+* **[Adobe Fonts](https://fonts.adobe.com/)
+* **[DaFont](https://www.dafont.com/)
+* **[UrbanFonts](https://www.urbanfonts.com/)
+* **[CDN Fonts](https://www.cdnfonts.com/)
+
+<br>
+### Icons
+* **[FeatherIcons](https://feathericons.com/)
+* **[Icons8](https://icons8.com/)
+* **[Iconsax](https://iconsax.io/)
+* **[Iconic](https://useiconic.com/open)
+* **[Noun Project](https://thenounproject.com/)
+* **[FreeIcons](https://www.flaticon.com/)
+* **[Remix Icons](https://remixicon.com/)
+* **[Hero Icons](https://heroicons.com/)
+* **[Favicons](https://favicon.io/)
+
+<br><br>
+
+## Hosting Platforms
+
+**Free Hosting Platforms**<br>
+* **[FireBase](https://firebase.google.com/)
+* **[Netify](https://www.netlify.com/)
+* **[Heroku](https://www.heroku.com/)
+* **[Surge](https://surge.sh/)
+* **[Gitub](https://github.com/)
+* **[Vercel](https://vercel.com/)
+* **[Fleek](https://fleek.co/)
+* **[Free Hosting](https://www.freehosting.com/)
+
+**Paid Hosting Platforms**<br>
+* **[GoDaddy](https://www.godaddy.com/en-in/hosting/web-hosting)
+* **[Hostinger](https://www.hostinger.in/)
+
+
+<br><br>
 
 ## API Resources
 <br>
