@@ -109,7 +109,9 @@
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br>
+
 **Free Hosting Platforms**<br>
+
 * **[FireBase](https://firebase.google.com/)**
 * **[Netify](https://www.netlify.com/)**
 * **[Heroku](https://www.heroku.com/)**
@@ -120,6 +122,7 @@
 * **[Free Hosting](https://www.freehosting.com/)**
 
 **Paid Hosting Platforms**<br>
+
 * **[GoDaddy](https://www.godaddy.com/en-in/hosting/web-hosting)**
 * **[Hostinger](https://www.hostinger.in/)**
 
